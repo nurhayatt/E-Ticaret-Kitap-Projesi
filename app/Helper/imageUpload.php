@@ -18,6 +18,7 @@ class imageUploader
             if (!File::exits($dir)) {
                 File::makeDirectory($dir, 0755, true);
             }
+           
             if(!File::exits($dirLarge))
             {
                File::makeDirectory($dirLarge,0755,true); 
