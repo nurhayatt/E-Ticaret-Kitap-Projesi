@@ -1,0 +1,408 @@
+Uri: https://tvtracking.com/
+File Name: C:\İndierilenWeb\tvtracking.com\index.htm
+Content Type: text/html
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/Bild003cut1-1.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\Bild003cut1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/Buld036.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\Buld036.jpg
+Content Type: image/jpeg
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/10/Buld54.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\10\Buld54.jpg
+Content Type: image/jpeg
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/Bild005-2.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\Bild005-2.jpg
+Content Type: image/jpeg
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/Bild004-1.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\Bild004-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\İndierilenWeb\tvtracking.com\xfn\11.html
+Content Type: text/html
+
+Uri: https://tvtracking.com/feed/
+File Name: C:\İndierilenWeb\tvtracking.com\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://tvtracking.com/comments/feed/
+File Name: C:\İndierilenWeb\tvtracking.com\comments\feed\index.htm.rss
+Content Type: application/rss+xml
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/style.css?ver=1.3.33
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\style.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-content/plugins/one-page-express-companion/theme-data/one-page-express/templates/css/common.css?ver=1.6.14
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\one-page-express-companion\theme-data\one-page-express\templates\css\common.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-content/plugins/one-page-express-companion/theme-data/one-page-express/sections/content.css?ver=1.6.14
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\one-page-express-companion\theme-data\one-page-express\sections\content.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-content/plugins/one-page-express-companion/theme-data/one-page-express/templates/css/HoverFX.css?ver=1.6.14
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\one-page-express-companion\theme-data\one-page-express\templates\css\HoverFX.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express-pro/style.css?ver=1.3.33
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express-pro\style.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express-pro/sections/content.css?ver=1.3.33
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express-pro\sections\content.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express-pro/assets/css/jquery.fancybox.min.css?ver=1.3.33
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express-pro\assets\css\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-includes/css/dist/block-library/style.min.css?ver=5.8.1
+File Name: C:\İndierilenWeb\tvtracking.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-content/plugins/cleverreach/resources/css/frontend.css?ver=5.8.1
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\cleverreach\resources\css\frontend.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.2
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-content/plugins/svg-vector-icon-plugin/admin/css/wordpress-svg-icon-plugin-style.min.css?ver=5.8.1
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\svg-vector-icon-plugin\admin\css\wordpress-svg-icon-plugin-style.min.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-content/plugins/wpcf7-redirect/build/css/wpcf7-redirect-frontend.min.css?ver=5.8.1
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\wpcf7-redirect\build\css\wpcf7-redirect-frontend.min.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/css/cookie-law-info-public.css?ver=2.3.4
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\webtoffee-gdpr-cookie-consent\public\css\cookie-law-info-public.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/css/cookie-law-info-gdpr.css?ver=2.3.4
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\webtoffee-gdpr-cookie-consent\public\css\cookie-law-info-gdpr.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Source+Sans+Pro:200%2Cnormal%2C300%2C600%2C700%2C200%2Cnormal%2C300%2C600%2C700|Playfair+Display:regular%2Citalic%2C700%2C900|Aclonica:regular&subset=latin%2Clatin-ext
+File Name: C:\İndierilenWeb\tvtracking.com\css.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/font-awesome/font-awesome.min.css?ver=1.3.33
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\font-awesome\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/css/animate.css?ver=1.3.33
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/css/webgradients.css?ver=1.3.33
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\css\webgradients.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-json/
+File Name: C:\İndierilenWeb\tvtracking.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://tvtracking.com/wp-json/wp/v2/pages/37
+File Name: C:\İndierilenWeb\tvtracking.com\wp-json\wp\v2\pages\37.json
+Content Type: application/json
+
+Uri: https://tvtracking.com/xmlrpc.php?rsd
+File Name: C:\İndierilenWeb\tvtracking.com\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://tvtracking.com/wp-includes/wlwmanifest.xml
+File Name: C:\İndierilenWeb\tvtracking.com\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: https://tvtracking.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftvtracking.com%2F
+File Name: C:\İndierilenWeb\tvtracking.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://tvtracking.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftvtracking.com%2F&format=xml
+File Name: C:\İndierilenWeb\tvtracking.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/cropped-Runcognition-O-Logo-1-32x32.png
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\cropped-Runcognition-O-Logo-1-32x32.png
+Content Type: image/png
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/cropped-Runcognition-O-Logo-1-192x192.png
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\cropped-Runcognition-O-Logo-1-192x192.png
+Content Type: image/png
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/cropped-Runcognition-O-Logo-1-180x180.png
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\cropped-Runcognition-O-Logo-1-180x180.png
+Content Type: image/png
+
+Uri: https://tvtracking.com/tv-marketing/
+File Name: C:\İndierilenWeb\tvtracking.com\tv-marketing\index.htm
+Content Type: text/html
+
+Uri: https://tvtracking.com/copyright-management/
+File Name: C:\İndierilenWeb\tvtracking.com\copyright-management\index.htm
+Content Type: text/html
+
+Uri: https://tvtracking.com/customization/
+File Name: C:\İndierilenWeb\tvtracking.com\customization\index.htm
+Content Type: text/html
+
+Uri: https://tvtracking.com/about-us/
+File Name: C:\İndierilenWeb\tvtracking.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://tvtracking.com/imprint/
+File Name: C:\İndierilenWeb\tvtracking.com\imprint\index.htm
+Content Type: text/html
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/css/footer-contact-boxes.css?ver=5.8.1
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\css\footer-contact-boxes.css
+Content Type: text/css
+
+Uri: https://tvtracking.com/wp-content/plugins/one-page-express-companion/theme-data/one-page-express/templates/js/libs/hammer.js?ver=1.6.14
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\one-page-express-companion\theme-data\one-page-express\templates\js\libs\hammer.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/plugins/one-page-express-companion/theme-data/one-page-express/templates/js/libs/modernizr.js?ver=1.6.14
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\one-page-express-companion\theme-data\one-page-express\templates\js\libs\modernizr.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\İndierilenWeb\tvtracking.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\İndierilenWeb\tvtracking.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/plugins/one-page-express-companion/theme-data/one-page-express/templates/js/HoverFX.js?ver=1.6.14
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\one-page-express-companion\theme-data\one-page-express\templates\js\HoverFX.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/plugins/one-page-express-companion/theme-data/one-page-express/sections/scripts.js?ver=1.6.14
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\one-page-express-companion\theme-data\one-page-express\sections\scripts.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express-pro/assets/js/scripts.js?ver=1.3.33
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express-pro\assets\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express-pro/assets/js/jquery.fancybox.min.js?ver=1.3.33
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express-pro\assets\js\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/plugins/wp-google-analytics-events/js/main.js?ver=1.0
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\wp-google-analytics-events\js\main.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/js/cookie-law-info-public.js?ver=2.3.4
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\webtoffee-gdpr-cookie-consent\public\js\cookie-law-info-public.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/js/smoothscroll.js?ver=1.3.33
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\js\smoothscroll.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/cropped-Runcognition-Logo-7.png
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\cropped-Runcognition-Logo-7.png
+Content Type: image/png
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/Buld013-1.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\Buld013-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/Bild012-1.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\Bild012-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/Bild011-1.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\Bild011-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/Bild937364.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\Bild937364.jpg
+Content Type: image/jpeg
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/denisse-leon-395932-unsplash-1.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\denisse-leon-395932-unsplash-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/headway-5QgIuuBxKwM.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\headway-5QgIuuBxKwM.jpg
+Content Type: image/jpeg
+
+Uri: https://tvtracking.com/wp-content/plugins/cleverreach/resources/js/form.js?ver=5.8.1
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\cleverreach\resources\js\form.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7
+File Name: C:\İndierilenWeb\tvtracking.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\İndierilenWeb\tvtracking.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.2
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/plugins/wpcf7-redirect/build/js/wpcf7-redirect-frontend-script.js?ver=1.1
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\wpcf7-redirect\build\js\wpcf7-redirect-frontend-script.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.12.1
+File Name: C:\İndierilenWeb\tvtracking.com\wp-includes\js\jquery\ui\effect.min.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-includes/js/jquery/ui/effect-slide.min.js?ver=1.12.1
+File Name: C:\İndierilenWeb\tvtracking.com\wp-includes\js\jquery\ui\effect-slide.min.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/js/drop_menu_selection.js?ver=1.3.33
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\js\drop_menu_selection.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/js/libs/typed.js?ver=1.3.33
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\js\libs\typed.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/js/theme.js?ver=1.3.33
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\js\theme.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/js/libs/fixto.js?ver=1.3.33
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\js\libs\fixto.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/js/sticky.js?ver=1.3.33
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\js\sticky.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\İndierilenWeb\tvtracking.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-includes/js/masonry.min.js?ver=4.2.2
+File Name: C:\İndierilenWeb\tvtracking.com\wp-includes\js\masonry.min.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-includes/js/comment-reply.min.js?ver=5.8.1
+File Name: C:\İndierilenWeb\tvtracking.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/plugins/mystickysidebar/js/detectmobilebrowser.js?ver=1.2.3
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\mystickysidebar\js\detectmobilebrowser.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/plugins/mystickysidebar/js/theia-sticky-sidebar.js?ver=1.2.3
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\mystickysidebar\js\theia-sticky-sidebar.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-includes/js/wp-embed.min.js?ver=5.8.1
+File Name: C:\İndierilenWeb\tvtracking.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/cropped-Runcognition-Logo-7-300x56.png
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\cropped-Runcognition-Logo-7-300x56.png
+Content Type: image/png
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/cropped-Runcognition-Logo-7-768x142.png
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\cropped-Runcognition-Logo-7-768x142.png
+Content Type: image/png
+
+Uri: https://tvtracking.com/wp-content/uploads/sites/4/2019/09/cropped-Runcognition-Logo-7-1024x190.png
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\uploads\sites\4\2019\09\cropped-Runcognition-Logo-7-1024x190.png
+Content Type: image/png
+
+Uri: https://wordpress.org/
+File Name: C:\İndierilenWeb\tvtracking.com\index-1.htm
+Content Type: text/html
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/images/hamburger.png
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\images\hamburger.png
+Content Type: image/png
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/images/close_icon.png
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\images\close_icon.png
+Content Type: image/png
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/images/mini_menu.png
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\images\mini_menu.png
+Content Type: image/png
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/images/mini_arrow_large.png
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\images\mini_arrow_large.png
+Content Type: image/png
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/images/mini_circle.png
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\images\mini_circle.png
+Content Type: image/png
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/images/mini_arrow.png
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\images\mini_arrow.png
+Content Type: image/png
+
+Uri: https://tvtracking.com/wp-content/plugins/one-page-express-companion/theme-data/one-page-express/sections/images/project2.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\one-page-express-companion\theme-data\one-page-express\sections\images\project2.jpg
+Content Type: image/jpeg
+
+Uri: https://tvtracking.com/wp-content/plugins/one-page-express-companion/theme-data/one-page-express/sections/images/project1.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\one-page-express-companion\theme-data\one-page-express\sections\images\project1.jpg
+Content Type: image/jpeg
+
+Uri: https://tvtracking.com/wp-content/plugins/one-page-express-companion/theme-data/one-page-express/sections/images/full-height-column.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\one-page-express-companion\theme-data\one-page-express\sections\images\full-height-column.jpg
+Content Type: image/jpeg
+
+Uri: https://tvtracking.com/wp-content/plugins/one-page-express-companion/theme-data/one-page-express/sections/images/rodion-kutsaev-184298-1920x1280.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\one-page-express-companion\theme-data\one-page-express\sections\images\rodion-kutsaev-184298-1920x1280.jpg
+Content Type: image/jpeg
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express-pro/sections/images/project2.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express-pro\sections\images\project2.jpg
+Content Type: image/jpeg
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express-pro/sections/images/julian-o-hayon-143085.jpg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express-pro\sections\images\julian-o-hayon-143085.jpg
+Content Type: image/jpeg
+
+Uri: https://tvtracking.com/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.eot
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\svg-vector-icon-plugin\admin\css\icon-font\wp-svg-plugin-icon-set1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tvtracking.com/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.eot?
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\svg-vector-icon-plugin\admin\css\icon-font\wp-svg-plugin-icon-set1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tvtracking.com/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.woff
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\svg-vector-icon-plugin\admin\css\icon-font\wp-svg-plugin-icon-set1.woff
+Content Type: application/font-woff
+
+Uri: https://tvtracking.com/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.ttf
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\svg-vector-icon-plugin\admin\css\icon-font\wp-svg-plugin-icon-set1.ttf
+Content Type: application/octet-stream
+
+Uri: https://tvtracking.com/wp-content/plugins/svg-vector-icon-plugin/admin/css/icon-font/wp-svg-plugin-icon-set1.svg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\svg-vector-icon-plugin\admin\css\icon-font\wp-svg-plugin-icon-set1.svg
+Content Type: image/svg+xml
+
+Uri: https://tvtracking.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/images/cli_placeholder.svg
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\plugins\webtoffee-gdpr-cookie-consent\public\images\cli_placeholder.svg
+Content Type: image/svg+xml
+
+Uri: https://tvtracking.com/wp-content/themes/one-page-express/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\İndierilenWeb\tvtracking.com\wp-content\themes\one-page-express\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tvtracking.com/contact/
+File Name: C:\İndierilenWeb\tvtracking.com\contact\index.htm
+Content Type: text/html
+
