@@ -8,47 +8,36 @@
             <div class="sidebar-wrapper">
                 <ul class="nav">
                     <li class="active">
-                        <a href="dashboard.html">
+                        <a href="{{ route('admin.index') }}">
                             <i class="material-icons">dashboard</i>
                             <p>Dashboard</p>
                         </a>
                     </li>
                     <li>
-                        <a href="./user.html">
+                        <a href="{{ route('admin.publisher.index') }}">
                             <i class="material-icons">person</i>
-                            <p>User Profile</p>
+                            <p>Yayın Evi</p>
                         </a>
                     </li>
                     <li>
-                        <a href="./table.html">
+                        <a href="{{ route('admin.writer.index') }}">
                             <i class="material-icons">content_paste</i>
-                            <p>Table List</p>
+                            <p>Yazarlar</p>
                         </a>
                     </li>
                     <li>
-                        <a href="./typography.html">
+                        <a href="{{ route('admin.category.index') }}">
                             <i class="material-icons">library_books</i>
-                            <p>Typography</p>
+                            <p>Kategoriler</p>
                         </a>
                     </li>
                     <li>
-                        <a href="./icons.html">
+                        <a href="{{ route('admin.book.index') }}">
                             <i class="material-icons">bubble_chart</i>
-                            <p>Icons</p>
+                            <p>Kitaplar</p>
                         </a>
                     </li>
-                    <li>
-                        <a href="./maps.html">
-                            <i class="material-icons">location_on</i>
-                            <p>Maps</p>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="./notifications.html">
-                            <i class="material-icons text-gray">notifications</i>
-                            <p>Notifications</p>
-                        </a>
-                    </li>
+               
                     <li class="active-pro">
                         <a href="upgrade.html">
                             <i class="material-icons">unarchive</i>

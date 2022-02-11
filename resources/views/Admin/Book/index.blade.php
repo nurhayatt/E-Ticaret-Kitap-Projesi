@@ -1,15 +1,14 @@
 @extends('layouts.Admin.master')
 @section('content')
-<div class="content">
- 
+   <div class="content">
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-md-12">
-                            <a href="{{ route('admin.writer.create') }}" class="btn btn-success">Yeni Yazar Ekle</a>
+                            <a href="{{ route('admin.book.create') }}" class="btn btn-success">Yeni Kitap Ekle</a>
                             <div class="card">
                                 <div class="card-header" data-background-color="purple">
-                                    <h4 class="title">Yazarlar</h4>
-                                    <p class="category">Burada eklenen yazarların listesini bulabilirsiniz. </p>
+                                    <h4 class="title">Kitap Listesi</h4>
+                                    <p class="category">Burada eklenen kitapların listesini bulabilirsiniz. </p>
                                 </div>
                                 <div class="card-content table-responsive">
                                     <table class="table">
@@ -23,8 +22,8 @@
                                             @foreach ($data as $key => $value)
                                                 <tr>
                                                 <td>{{ $value['name'] }}</td>
-                                                <td><a href="{{ route('admin.writer.edit',['id'=>$value['id']]) }}">Düzenle</a></td>
-                                                <td><a href="{{ route('admin.writer.delete',['id'=>$value['id']]) }}">Sil</a></td>
+                                                <td><a href="{{ route('admin.book.edit',['id'=>$value['id']]) }}">Düzenle</a></td>
+                                                <td><a href="{{ route('admin.book.delete',['id'=>$value['id']]) }}">Sil</a></td>
 
                                             </tr>
                                             @endforeach

@@ -58,5 +58,21 @@ Route::prefix('/Singup')->group(function () {
         Route::post('/Edit/{id}', 'IndexController@update')->name('edit.post');
         Route::get('/Delete/{id}', 'IndexController@delete')->name('delete');
     });
+    Route::group(['namespace' => 'Book', 'prefix' => 'Book', 'as' => 'book.'], function () {
+        Route::get('/', 'IndexController@index')->name('index');
+        Route::get('/Add', 'IndexController@create')->name('create');
+        Route::post('/Add', 'IndexController@store')->name('create.post');
+        Route::get('/Edit/{id}', 'IndexController@edit')->name('edit');
+        Route::post('/Edit/{id}', 'IndexController@update')->name('edit.post');
+        Route::get('/Delete/{id}', 'IndexController@delete')->name('delete');
+    });
+    Route::group(['namespace' => 'Category', 'prefix' => 'Category', 'as' => 'category.'], function () {
+        Route::get('/', 'IndexController@index')->name('index');
+        Route::get('/Add', 'IndexController@create')->name('create');
+        Route::post('/Add', 'IndexController@store')->name('create.post');
+        Route::get('/Edit/{id}', 'IndexController@edit')->name('edit');
+        Route::post('/Edit/{id}', 'IndexController@update')->name('edit.post');
+        Route::get('/Delete/{id}', 'IndexController@delete')->name('delete');
+    });
 });
  

@@ -18,6 +18,8 @@ class CreateBooksTable extends Migration
             $table->string('name');
             $table->string('selflink');
             $table->integer('writer_id');
+            $table->integer('publisher_id');
+            $table->integer('category_id');
             $table->double('price');
             $table->text('description')->nullable();
             $table->string('image')->nullable();
