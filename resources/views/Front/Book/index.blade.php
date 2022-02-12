@@ -12,6 +12,9 @@
             </div>
         </div>
     </div>
+    @if (session('status'))
+        {{ session('status') }}
+    @endif
     <!--end-breadcrumbs-->
     <!--start-single-->
     <div class="single contact">
@@ -78,7 +81,7 @@
                                         <span class="women1">: {{ App\Model\Writers::getField($data[0]['writer_id'],"name") }}</span>
                                     </li>
                                 </ul>
-                                <a href="#" class="add-cart item_add">ADD TO CART</a>
+                                <a href="{{ route('basket.add', ['id'=>$data[0]['id']]) }}" class="add-cart item_add">Sepete Ekle</a>
 
                             </div>
                         </div>

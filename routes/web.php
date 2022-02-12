@@ -17,27 +17,15 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', 'Front\IndexController@index')->name('index');
 Route::get('/Writer/Detail/{selflink}','Front\Book\IndexController@index')->name('book.detail');
+Route::get('/Basket/Add/{id}','Front\Basket\IndexController@add')->name('basket.add');
+Route::get('/Basket','Front\Basket\IndexController@index')->name('basket.index');
+Route::get('/Basket/Remove/{id}','Front\Basket\IndexController@remove')->name('basket.remove');
+Route::get('/Basket/Complete','Front\Basket\IndexController@complete')->name('basket.compelete')->middleware(['auth']);
+Route::post('/Basket/Complete','Front\Basket\IndexController@completeStore')->name('basket.compeleteStore')->middleware(['auth']);
 
 
 
-Auth::routes();
-
-/*Route::get('/', function () {
-    return view('index');
-})->name('index');
-
-Route::prefix('/login')->group(function () {
-    Route::get('/', 'Auth\LoginController@index');
-    Route::post('/', 'Auth\LoginController@login')->name('login');
-});
-
-Route::get('/logout', 'Auth\LoginController@logout')->name('logout');
-
-
-Route::prefix('/Singup')->group(function () {
-    Route::get('/', 'SingUpController@index')->name('singup.index');
-    Route::post('/', 'SingUpController@singup')->name('singup.store');
-});*/
+Auth::routes(); 
 
  Route::group(['namespace'=>'Admin', 'prefix'=>'Admin', 'as'=>'admin.'], function(){
     Route::get('/', 'IndexController@index')->name('index');
@@ -72,6 +60,14 @@ Route::prefix('/Singup')->group(function () {
         Route::post('/Add', 'IndexController@store')->name('create.post');
         Route::get('/Edit/{id}', 'IndexController@edit')->name('edit');
         Route::post('/Edit/{id}', 'IndexController@update')->name('edit.post');
+        Route::get('/Delete/{id}', 'IndexController@delete')->name('delete');
+    });
+    Route::group(['namespace' => 'Order', 'prefix' => 'Order', 'as' => 'order.'], function () {
+        Route::get('/', 'IndexController@index')->name('index');
+        Route::get('/Add', 'IndexController@create')->name('create');
+        Route::post('/Add', 'IndexController@store')->name('create.post');
+        Route::get('/Detail/{id}', 'IndexController@detail')->name('detail');
+     
         Route::get('/Delete/{id}', 'IndexController@delete')->name('delete');
     });
 });

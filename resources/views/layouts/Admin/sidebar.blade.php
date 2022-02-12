@@ -37,7 +37,12 @@
                             <p>Kitaplar</p>
                         </a>
                     </li>
-               
+                <li>
+                        <a href="{{ route('admin.order.index') }}">
+                            <i class="material-icons">notifications</i>
+                            <p>Siparişlerim</p>
+                        </a>
+                    </li>
                     <li class="active-pro">
                         <a href="upgrade.html">
                             <i class="material-icons">unarchive</i>
