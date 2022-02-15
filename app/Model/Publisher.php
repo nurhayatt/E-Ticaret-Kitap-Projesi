@@ -15,6 +15,7 @@ class Publisher extends Model
             return $w[0][$field];
         } else {
             return "Silinmiş YayınEvi";
+        
         }
     }
 }

@@ -19,7 +19,7 @@
 			</div>
 			<div class="ckeckout-top">
 			<div class="cart-items">
-			 <h3>Sepetim({{ App\Helper\basketHelpe::countData() }})</h3>
+			 <h3>Sepetim({{ App\Helper\basketHelper::countData() }})</h3>
 				
 			<div class="in-check" >
 				<ul class="unit">

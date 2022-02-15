@@ -15,6 +15,15 @@ class IndexController extends Controller
 
     public function detail($id)
     {
-        //$c = Order::where('id', $id);
+        $c = Order::where('id', '=',$id)->count();
+        if($c!=0)
+        {
+            $w = Order::where('id', '=',$id)->get();
+            return view('Admin.Order.detail ', ['data'=>$w]);
+        }
+        else
+        {
+            return redirect('/');
+        }
     }
 }

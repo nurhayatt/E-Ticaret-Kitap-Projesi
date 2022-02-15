@@ -16,7 +16,7 @@ class basketHelper
         Session::put('basket'.rand(1,9000),$array);
     }
 
-   static function allist()
+   static function alList()
    {
        $x = Session::get('basket');
        return $x;
@@ -25,7 +25,7 @@ class basketHelper
     
     static function totalPrice()
     {
-        $data = self::allist();
+        $data = self::alList();
         return collect($data)->sum('price');
     }
 
