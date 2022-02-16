@@ -90,51 +90,25 @@
                  
                     <div class="latestproducts">
                         <div class="product-one">
+                            @foreach ( App\Model\Books::inRandomOrder()->limit(3)->get() as $key => $value )
+                                
+                         
                             <div class="col-md-4 product-left p-left">
                                 <div class="product-main simpleCart_shelfItem">
-                                    <a href="single.html" class="mask"><img class="img-responsive zoom-img"
+                                    <a href="{{ route('book.detail',['selflink'=> $value['selflink']]) }}" class="mask"><img class="img-responsive zoom-img"
                                             src="images/p-1.png" alt="" /></a>
                                     <div class="product-bottom">
-                                        <h3>Smart Watches</h3>
-                                        <p>Explore Now</p>
+                                        <h3>{{ $value['name'] }}</h3>
+                                        <p>{{ App\Model\Writers::getField($value['writer_id'],"name") }}</p>
                                         <h4><a class="item_add" href="#"><i></i></a> <span class=" item_price">$
-                                                329</span></h4>
+                                                {{ $value['price'] }}</span></h4>
                                     </div>
                                     <div class="srch">
                                         <span>-50%</span>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-4 product-left p-left">
-                                <div class="product-main simpleCart_shelfItem">
-                                    <a href="single.html" class="mask"><img class="img-responsive zoom-img"
-                                            src="images/p-2.png" alt="" /></a>
-                                    <div class="product-bottom">
-                                        <h3>Smart Watches</h3>
-                                        <p>Explore Now</p>
-                                        <h4><a class="item_add" href="#"><i></i></a> <span class=" item_price">$
-                                                329</span></h4>
-                                    </div>
-                                    <div class="srch">
-                                        <span>-50%</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4 product-left p-left">
-                                <div class="product-main simpleCart_shelfItem">
-                                    <a href="single.html" class="mask"><img class="img-responsive zoom-img"
-                                            src="images/p-3.png" alt="" /></a>
-                                    <div class="product-bottom">
-                                        <h3>Smart Watches</h3>
-                                        <p>Explore Now</p>
-                                        <h4><a class="item_add" href="#"><i></i></a> <span class=" item_price">$
-                                                329</span></h4>
-                                    </div>
-                                    <div class="srch">
-                                        <span>-50%</span>
-                                    </div>
-                                </div>
-                            </div>
+                          @endforeach
                             <div class="clearfix"></div>
                         </div>
                     </div>

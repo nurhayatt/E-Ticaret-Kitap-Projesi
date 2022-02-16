@@ -16,6 +16,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'Front\IndexController@index')->name('index');
+Route::get('/Category/{selflink}', 'Front\Category\IndexController@index')->name('category');
 Route::get('/Writer/Detail/{selflink}','Front\Book\IndexController@index')->name('book.detail');
 Route::get('/Basket/Add/{id}','Front\Basket\IndexController@add')->name('basket.add');
 Route::get('/Basket','Front\Basket\IndexController@index')->name('basket.index');

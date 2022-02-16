@@ -76,7 +76,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <div class="cart box_1">
                         <a href="{{ route('basket.index') }}">
                             <div class="total">
-                                <span style="font-size:13px;">{{ App\Helper\basketHelper::totalPrice() }}TL</span>
+                                <span class="simpleCart_total" style="font-size:13px;">{{ App\Helper\basketHelper::totalPrice() }}TL</span>
                             </div>
                             <img src="{{ asset('images/cart-1.png') }}" alt="" />
                         </a>
@@ -105,7 +105,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                         <ul class="memenu skyblue">
                             <li class="active"><a href="{{ route('index') }}">Anasayfa</a></li>
                             @foreach (\App\Model\Category::all() as $key => $value)
-                                <li class="grid"><a href="typo.html">{{ $value['name'] }}</a>
+                                <li class="grid"><a href="{{ route('category', ['selflink'=>$value['selflink']]) }}">{{ $value['name'] }}</a>
                                 </li>
                             @endforeach
 
